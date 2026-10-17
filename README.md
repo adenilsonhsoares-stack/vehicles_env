@@ -41,6 +41,6 @@ Os gráficos são interativos e podem ser visualizados diretamente no navegador.
 
 ## Aplicativo web
 
-O aplicativo será disponibilizado online pelo Render.
+O aplicativo foi publicado online utilizando o Render.
 
-**Link:** adicionar a URL após a publicação.
+[Acessar o aplicativo](https://vehicles-env-idhl.onrender.com)
